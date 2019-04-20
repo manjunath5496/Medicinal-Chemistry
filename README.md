@@ -27,3 +27,24 @@
                 
 10. An Introduction to Key Concepts in Medicinal Chemistry</br>
                 <a href="https://github.com/manjunath5496/Scientific-Biographies/blob/master/medc10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+11. Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</br>
+                <a href="https://github.com/manjunath5496/Scientific-Biographies/blob/master/medc11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+12. Progress in Medicinal Chemistry</br>
+                <a href="https://github.com/manjunath5496/Scientific-Biographies/blob/master/medc12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+13. Bioinorganic Medicinal Chemistry</br>
+                <a href="https://github.com/manjunath5496/Scientific-Biographies/blob/master/medc13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
